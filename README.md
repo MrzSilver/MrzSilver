@@ -34,14 +34,6 @@
 | **✅ Task Management App** | A task manager  add/edit/delete tasks | Raect.js, Tailwind | [GitHub Repo](https://github.com/MrzSilver/task-management-app) |
 | **🖼 SlideMeProject** | Fullstack Project | React.js , Node.js, Tailwind ,Mysql| [GitHub Repo](https://github.com/MrzSilver/SlideMeProject) |
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrzSilver&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrzSilver&layout=compact&theme=radical" />
-</p>
 
 ---
 
